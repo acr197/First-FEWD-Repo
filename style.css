@@ -1,0 +1,18 @@
+
+
+h1 {
+	font-size: 40px;
+}
+
+img {
+	border: solid 5px black;
+}
+
+body {
+	background-color: #ffe;
+	border-top: solid 5px white;
+}
+
+a {
+    color: #900;
+}
